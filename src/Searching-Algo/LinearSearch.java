@@ -3,6 +3,8 @@
  * search the time complex is linear
  * search is O(n) . This problem is
  * find the element in the array
+ * 
+ * @author meganathan
  */
 
 public class LinearSearch {
