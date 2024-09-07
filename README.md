@@ -27,7 +27,7 @@ This repository aims to provide a comprehensive collection of data structures an
   - [Graphs](#graphs)
 - [Algorithms](#algorithms)
   - [Sorting](#sorting)
-  - [Searching](#searching)
+  - [Searching](../Data-Structures-And-Algorithms/src/Searching-Algo/)
   - [Dynamic Programming](#dynamic-programming)
   - [Graph Algorithms](#graph-algorithms)
 - [Usage](#usage)
