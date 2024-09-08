@@ -1,3 +1,5 @@
+package SearchingAlogrithms;
+
 /**
  * Here the example of the linear
  * search the time complex is linear
